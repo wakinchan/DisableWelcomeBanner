@@ -1,7 +1,8 @@
 DisableWelcomeBanner
 ====================
 
-Disable WelcomeBanner
+Disable WelcomeBanner(GameCenter)
+One-liner Tweak.
 
 License
 ====================
