@@ -1,0 +1,9 @@
+Package: com.kindadev.DisableWelcomeBanner
+Name: DisableWelcomeBanner
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Disable Welcome Banner
+Maintainer: kinda
+Author: kindadev
+Section: Tweaks

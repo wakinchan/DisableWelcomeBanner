@@ -1,0 +1,1 @@
+%hook GKLocalPlayer - (void)_showWelcomeBanner {} %end
